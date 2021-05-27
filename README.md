@@ -7,6 +7,13 @@
 - 🎓 &nbsp; Studied Computer Engineering at PICT Pune.
 - 💼 &nbsp; Learning about Native Application Development(Flutter and React Native).
 
+<br>
+
+<p align="center">
+  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/prathmesh-jadhav-4933ab172/)
+  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](prajadhav1243@gmail.com)
+  [![Visits](https://komarev.com/ghpvc/?username=prathmesh16&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/prathmesh16)
+</p>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -14,10 +21,11 @@
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
