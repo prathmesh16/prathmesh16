@@ -10,6 +10,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Computer Engineering at PICT Pune.
 - 💼 &nbsp; Learning about Native Application Development(Flutter and React Native).
+- 👨🏻‍💻 &nbsp; Freelancer 
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathmesh16&label=Profile%20views&color=0e75b6&style=flat" alt="prathmesh" /> </p>
@@ -59,6 +60,10 @@
 
 ![Prathmesh's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh16&theme=buefy&layout=compact&langs_count=10)
 
+----
+Credit: [Prathmesh Jadhav](https://github.com/prathmesh16)
+
+Last Edited on: 27/05/2021
 
 
 <!--
